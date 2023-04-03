@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Machine learning engineer, experienced in Python, ML and data analysis. Highly skilled in developing deep learning models to process images and texts. Excellent time managment skills. Excellent time managment skills. Result driven.</h3>
 
-- My  [CV](DanilShalagin.pdf)
+- My  [CV](DanilShalagin.pdf)/[Резюме](DanilShalagin(Rus).pdf)
 - 
 - 🔭 I’m currently working on **Federated learning, CV animals detection**
 
