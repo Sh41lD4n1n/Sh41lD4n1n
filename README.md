@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Machine learning engineer, experienced in Python, ML and data analysis. Highly skilled in developing deep learning models to process images and texts. Excellent time managment skills. Excellent time managment skills. Result driven.</h3>
 
+- My \href{https://github.com/Sh41lD4n1n/Sh41lD4n1n/blob/main/DanilShalagin.pdf}{CV}
+- 
 - 🔭 I’m currently working on **Federated learning, CV animals detection**
 
 - 📫 How to reach me **shalagin.danil@mail.ru**
