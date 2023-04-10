@@ -8,9 +8,9 @@
 [Перейти к русской версии](README.md)
 - My CV:
 
-    - [CV english version](DanilShalagin.pdf)
+    - [CV english version](/CVs/DanilShalagin.pdf)
 
-    - [Резюме русская версия](DanilShalagin(Rus).pdf)
+    - [Резюме русская версия](/CVs/DanilShalagin(Rus).pdf)
 
 - 🔭 I’m currently working on **Federated learning, CV animals detection**
 
