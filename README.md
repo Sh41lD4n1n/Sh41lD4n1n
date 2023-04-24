@@ -51,3 +51,5 @@
 - **einstein**
 
 Приложение Flutter
+
+* основано на https://rahuldkjain.github.io/gh-profile-readme-generator/
