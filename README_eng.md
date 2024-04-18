@@ -1,7 +1,9 @@
 # Sh41D4n1n
 
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Machine learning engineer, experienced in Python, ML and data analysis. Highly skilled in developing deep learning models to process images and texts. Excellent time managment skills. Excellent time managment skills. Result driven.</h3>
+<h3 align="center">Machine learning engineer, experienced in Python, ML and data analysis. Highly skilled in developing deep learning models to process images and texts.</h3>
+
+<!-- Excellent time managment skills. Excellent time managment skills. Result driven. -->
 
 <h3 align = "center">(Furthermore, I have created application for Android (iOS, web) with Flutter framework)</H3>
 
@@ -12,9 +14,9 @@
 
     - [Резюме русская версия](/CVs/DanilShalagin(Rus).pdf)
 
-- 🔭 I’m currently working on **Federated learning, CV animals detection**
+<!-- - 🔭 I’m currently working on **Federated learning, CV animals detection** -->
 
-- 📫 How to reach me *shalagin.danil@mail.ru*
+<!--  - 📫 How to reach me *shalagin.danil@mail.ru* -->
 
 
 <h3 align="left">Languages and Tools:</h3>
